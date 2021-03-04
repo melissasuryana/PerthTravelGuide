@@ -4,5 +4,5 @@ This is a small responsive Perth travel guide website done as part of the CQU We
 The files are written in HTML and Bootstrap framework.
 
 Click this link to view in browser
-https://melissasuryana.github.io/PerthTravelGuide/
+https://melissasuryana.github.io/perth-travel-guide/
 
